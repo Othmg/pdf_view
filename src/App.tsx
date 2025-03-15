@@ -3,7 +3,7 @@ import PDFViewer from './components/PDFViewer';
 import { Stethoscope } from 'lucide-react';
 
 function App() {
-  const pdfUrl = '/assets/sample.pdf';
+  const pdfUrl = '/assets/SMPR-hug.pdf';
 
   return (
     <div className="min-h-screen bg-gray-50">
